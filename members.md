@@ -230,6 +230,7 @@ Format:
 | Ramasamy G | [ramasamyz](https://github.com/ramasamyz) | Experience of 2 years in java and related technologies. Interested in doing Ruby, OpenSource and artifical Intelligence activities. I have time and mind to spare, looking forward to collaborate and programme more. |
 | Randy Le | [WickedWallaby](https://github.com/WickedWallaby) |  |
 | Raymond Tang | [Raytray](https://github.com/Raytray) ||
+| Rebecca F | [rferk](https://github.com/rferk) | Self-taught. Python. JavaScript. Learning C++ |
 | Robert Povsic | [esoyitaque](https://github.com/esoyitaque)| Can program Java and Android would like to learn C++ and Python |
 | Roc Hodges | [myth134](https://github.com/myth134) ||
 | Rod Lai | [Rodlikespants](https://github.com/Rodlikespants) | I know Java, Perl, C++, and a little bit of many others (Ruby, Python, JavaScript, Node.js).  I've been working in the industry for a few years but would like more experience developing independent projects and contributing to OSS |
